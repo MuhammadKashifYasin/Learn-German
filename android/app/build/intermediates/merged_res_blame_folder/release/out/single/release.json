@@ -1,0 +1,2254 @@
+[
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_vegetables_gurke.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_vegetables_gurke.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_fruites_haselnuss.webp.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_fruites_haselnuss.webp"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_schoolimages_spitzer.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_schoolimages_spitzer.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_weatherimages_tornado.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_weatherimages_tornado.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_foodimages_fish.webp.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_foodimages_fish.webp"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_foodimages_kase.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_foodimages_kase.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_clothimages_rock.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_clothimages_rock.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_atozimages_d.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_atozimages_d.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_clothimages_schlafanzug.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_clothimages_schlafanzug.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_transport_ship.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_transport_ship.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_raumfahrt_teleskop.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_raumfahrt_teleskop.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_foodimages_meet.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_foodimages_meet.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_colorimages_gray.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_colorimages_gray.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_holidayimages_sonnenbrille.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_holidayimages_sonnenbrille.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_naturallandimages_berg.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_naturallandimages_berg.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_fishimages_qualle.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_fishimages_qualle.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_wildanimalimages_nashorn.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_wildanimalimages_nashorn.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_images_spaceman.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_images_spaceman.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_formanimalimages_ziege.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_formanimalimages_ziege.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_transport_uboot.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_transport_uboot.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_clothimages_unterwasche.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_clothimages_unterwasche.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_transport_bus.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_transport_bus.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_technology_spielkonsole.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_technology_spielkonsole.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_christmasimages_sussigkeit.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_christmasimages_sussigkeit.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_bathimages_zahnpasta.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_bathimages_zahnpasta.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_holidayimages_ball.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_holidayimages_ball.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_fishimages_seehund.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_fishimages_seehund.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_bedimages_lampe.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_bedimages_lampe.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_insectsimages_heuschrecke.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_insectsimages_heuschrecke.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_images_paste.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_images_paste.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_halloweenimages_zombie.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_halloweenimages_zombie.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_icecream_coffee.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_icecream_coffee.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_schoolimages_lehrer.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_schoolimages_lehrer.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_foodimages_viniger.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_foodimages_viniger.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_verbs_tanzen.webp.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_verbs_tanzen.webp"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_schoolimages_seite.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_schoolimages_seite.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_fruites_feige.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_fruites_feige.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_clothimages_kurzehose.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_clothimages_kurzehose.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_naturallandimages_fluss.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_naturallandimages_fluss.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_clothimages_hut.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_clothimages_hut.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_fishimages_pinguin.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_fishimages_pinguin.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_insectsimages_wurm.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_insectsimages_wurm.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_raumfahrt_rakete.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_raumfahrt_rakete.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_wildanimalimages_zebra.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_wildanimalimages_zebra.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_naturallandimages_wasserfall.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_naturallandimages_wasserfall.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_schoolimages_klassenzimmer.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_schoolimages_klassenzimmer.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_holidayimages_sandburg.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_holidayimages_sandburg.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_sportimages_rugby.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_sportimages_rugby.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_bathimages_toilette.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_bathimages_toilette.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_holidayimages_palme.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_holidayimages_palme.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_images_city.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_images_city.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_bedimages_spielzeug.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_bedimages_spielzeug.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_cityimages_zebrastreifen.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_cityimages_zebrastreifen.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_headerimages_image11.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_headerimages_image11.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_electricimages_kaffeemaschine.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_electricimages_kaffeemaschine.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_insectsimages_ameise.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_insectsimages_ameise.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_wildanimalimages_kanguru.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_wildanimalimages_kanguru.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_images_shirt.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_images_shirt.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_insectsimages_skorpion.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_insectsimages_skorpion.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_atozimages_m.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_atozimages_m.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_foodimages_pommesfrites.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_foodimages_pommesfrites.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_transport_bicycle.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_transport_bicycle.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_cityimages_bushaltestelle.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_cityimages_bushaltestelle.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_atozimages_k.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_atozimages_k.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_holidayimages_leigestuhl.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_holidayimages_leigestuhl.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_weatherimages_sturm.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_weatherimages_sturm.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_atozimages_i.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_atozimages_i.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_musicimages_schlagzeug.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_musicimages_schlagzeug.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_headerimages_user.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_headerimages_user.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_christmasimages_tannenbaum.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_christmasimages_tannenbaum.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_formen_pfeil.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_formen_pfeil.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_electricimages_heizung.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_electricimages_heizung.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_formen_quadrat.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_formen_quadrat.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_vegetables_chili.webp.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_vegetables_chili.webp"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_fruites_blackberry.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_fruites_blackberry.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_clothimages_jeans.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_clothimages_jeans.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_fishimages_seepferdchen.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_fishimages_seepferdchen.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_headerimages_image6.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_headerimages_image6.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_images_sport.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_images_sport.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_wildanimalimages_giraffe.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_wildanimalimages_giraffe.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_holidayimages_strand.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_holidayimages_strand.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_musicimages_geige.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_musicimages_geige.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_livingroomimages_sofa.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_livingroomimages_sofa.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_electricimages_fohn.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_electricimages_fohn.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_vegetables_potato.webp.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_vegetables_potato.webp"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_weatherimages_sonne.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_weatherimages_sonne.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.learngermanlanguage.app-main-36:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_weatherimages_donner.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_weatherimages_donner.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_atozimages_g.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_atozimages_g.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_fruites_birne.webp.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_fruites_birne.webp"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_images_week.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_images_week.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_wildanimalimages_tiger.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_wildanimalimages_tiger.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_cityimages_strassenlicht.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_cityimages_strassenlicht.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_vegetables_kurbis.webp.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_vegetables_kurbis.webp"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_transport_quad.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_transport_quad.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_images_arrow.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_images_arrow.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_bathimages_waschbacken.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_bathimages_waschbacken.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_kitchenimages_loffel.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_kitchenimages_loffel.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_musicimages_akkordeon.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_musicimages_akkordeon.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_fruites_kokosnuss.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_fruites_kokosnuss.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_atozimages_v.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_atozimages_v.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_bodyimages_derfussknochel.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_bodyimages_derfussknochel.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_schoolimages_radiergummi.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_schoolimages_radiergummi.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_foodimages_brot.webp.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_foodimages_brot.webp"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.learngermanlanguage.app-main-36:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_verbs_traumen.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_verbs_traumen.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_kitchenimages_flasche.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_kitchenimages_flasche.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_weatherimages_wind.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_weatherimages_wind.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_verbs_malen.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_verbs_malen.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_vegetables_bohnen.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_vegetables_bohnen.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_foodimages_reis.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_foodimages_reis.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_cityimages_bank.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_cityimages_bank.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_petsimages_hase.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_petsimages_hase.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_weatherimages_hagel.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_weatherimages_hagel.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_weatherimages_regenbogen.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_weatherimages_regenbogen.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_fruites_ananas.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_fruites_ananas.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_holidayimages_sonnencreme.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_holidayimages_sonnencreme.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_transport_helicopter.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_transport_helicopter.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_icecream_honig.webp.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_icecream_honig.webp"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_bodyimages_dasknie.webp.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_bodyimages_dasknie.webp"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_technology_cd.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_technology_cd.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_atozimages_beta.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_atozimages_beta.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_bathimages_seife.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_bathimages_seife.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_wildanimalimages_hirsch.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_wildanimalimages_hirsch.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_christmasimages_rentier.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_christmasimages_rentier.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_foodimages_jam.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_foodimages_jam.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_transport_wohnmobil.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_transport_wohnmobil.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_vegetables_paprika.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_vegetables_paprika.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_livingroomimages_teppich.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_livingroomimages_teppich.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_verbs_schlafen.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_verbs_schlafen.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_colorimages_purple.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_colorimages_purple.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_vegetables_kopfsalat.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_vegetables_kopfsalat.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_foodimages_suppe.webp.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_foodimages_suppe.webp"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_colorimages_red.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_colorimages_red.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_images_freezer.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_images_freezer.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_foodimages_myonnaise.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_foodimages_myonnaise.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_livingroomimages_vorhange.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_livingroomimages_vorhange.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_vegetables_tomato.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_vegetables_tomato.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_icecream_juice.webp.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_icecream_juice.webp"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_electricimages_waschmaschine.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_electricimages_waschmaschine.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_schoolimages_schuler.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_schoolimages_schuler.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_icecream_refreshingjuice.webp.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_icecream_refreshingjuice.webp"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_clothimages_krawatte.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_clothimages_krawatte.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_images_number.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_images_number.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_bathimages_papier.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_bathimages_papier.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_atozimages_q.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_atozimages_q.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_icecream_waffel.webp.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_icecream_waffel.webp"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_verbs_anrufen.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_verbs_anrufen.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_wildanimalimages_wolf.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_wildanimalimages_wolf.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_images_check.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_images_check.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_clothimages_schal.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_clothimages_schal.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_petsimages_hund.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_petsimages_hund.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_images_halloween.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_images_halloween.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_electricimages_klimaanlage.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_electricimages_klimaanlage.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_images_sun.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_images_sun.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_bodyimages_dasauge.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_bodyimages_dasauge.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_wildanimalimages_lowe.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_wildanimalimages_lowe.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_schoolimages_schreibtisch.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_schoolimages_schreibtisch.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_atozimages_dotteda.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_atozimages_dotteda.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_vegetables_pilz.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_vegetables_pilz.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_sportimages_bowling.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_sportimages_bowling.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_images_fish.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_images_fish.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_bedimages_regal.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_bedimages_regal.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_icecream_keks.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_icecream_keks.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_headerimages_image4.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_headerimages_image4.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.learngermanlanguage.app-main-36:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_images_spoon.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_images_spoon.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_sportimages_hockey.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_sportimages_hockey.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_images_body.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_images_body.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_icecream_lemonade.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_icecream_lemonade.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_vegetables_brokkoli.webp.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_vegetables_brokkoli.webp"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_sportimages_volleyball.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_sportimages_volleyball.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_holidayimages_koffer.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_holidayimages_koffer.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_formanimalimages_kalb.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_formanimalimages_kalb.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_headerimages_image9.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_headerimages_image9.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_wildanimalimages_nilpferd.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_wildanimalimages_nilpferd.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_bedimages_wecker.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_bedimages_wecker.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_livingroomimages_bild.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_livingroomimages_bild.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_formen_raute.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_formen_raute.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_bedimages_kleiderbugel.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_bedimages_kleiderbugel.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_images_month.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_images_month.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_bodyimages_diehand.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_bodyimages_diehand.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_raumfahrt_asteroid.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_raumfahrt_asteroid.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_clothimages_gurtel.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_clothimages_gurtel.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_clothimages_hemd.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_clothimages_hemd.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_wildanimalimages_eichhornchen.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_wildanimalimages_eichhornchen.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_kitchenimages_serviette.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_kitchenimages_serviette.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_cityimages_strasse.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_cityimages_strasse.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_bodyimages_derhals.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_bodyimages_derhals.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_schoolimages_textmarker.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_schoolimages_textmarker.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_atozimages_p.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_atozimages_p.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_insectsimages_fliege.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_insectsimages_fliege.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_naturallandimages_see.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_naturallandimages_see.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_foodimages_nudeln.webp.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_foodimages_nudeln.webp"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_colorimages_yellow.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_colorimages_yellow.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_formen_kreuz.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_formen_kreuz.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_weatherimages_hitze.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_weatherimages_hitze.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_atozimages_l.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_atozimages_l.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_bedimages_bett.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_bedimages_bett.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_atozimages_h.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_atozimages_h.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_fishimages_tintenfisch.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_fishimages_tintenfisch.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_fruites_pfirsich.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_fruites_pfirsich.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_christmasimages_geschenk.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_christmasimages_geschenk.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_livingroomimages_tur.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_livingroomimages_tur.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_vegetables_carrot.webp.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_vegetables_carrot.webp"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_bathimages_wasserhahn.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_bathimages_wasserhahn.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_bathimages_handtuch.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_bathimages_handtuch.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_formanimalimages_henne.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_formanimalimages_henne.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_atozimages_z.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_atozimages_z.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_kitchenimages_bratpfanne.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_kitchenimages_bratpfanne.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_formen_achteck.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_formen_achteck.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_christmasimages_glocken.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_christmasimages_glocken.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_images_color.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_images_color.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_verbs_kochen.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_verbs_kochen.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_schoolimages_stuhl.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_schoolimages_stuhl.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_foodimages_schinken.webp.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_foodimages_schinken.webp"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_cityimages_ampel.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_cityimages_ampel.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_musicimages_orchester.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_musicimages_orchester.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_halloweenimages_schadel.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_halloweenimages_schadel.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_insectsimages_marienkafer.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_insectsimages_marienkafer.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_sportimages_tennis.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_sportimages_tennis.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_atozimages_n.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_atozimages_n.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_schoolimages_taschenrechner.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_schoolimages_taschenrechner.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_verbs_singen.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_verbs_singen.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_clothimages_turnschuhe.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_clothimages_turnschuhe.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_technology_computer.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_technology_computer.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_icecream_schokolade.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_icecream_schokolade.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_sportimages_radfahren.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_sportimages_radfahren.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_fruites_erdbeere.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_fruites_erdbeere.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_formen_funfeck.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_formen_funfeck.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_verbs_schwimmen.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_verbs_schwimmen.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_wildanimalimages_bar.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_wildanimalimages_bar.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_headerimages_image8.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_headerimages_image8.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_verbs_denken.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_verbs_denken.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_kitchenimages_topf.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_kitchenimages_topf.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_bodyimages_derkopf.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_bodyimages_derkopf.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_clothimages_socken.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_clothimages_socken.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_musicimages_note.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_musicimages_note.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_wildanimalimages_frosch.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_wildanimalimages_frosch.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_images_bike.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_images_bike.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_fruites_banane.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_fruites_banane.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_verbs_sprechen.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_verbs_sprechen.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_formen_rechteck.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_formen_rechteck.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_vegetables_onion.webp.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_vegetables_onion.webp"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_transport_car.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_transport_car.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_formanimalimages_kuh.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_formanimalimages_kuh.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_images_holiday.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_images_holiday.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_atozimages_o.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_atozimages_o.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_clothimages_schuhe.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_clothimages_schuhe.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_naturallandimages_gletscher.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_naturallandimages_gletscher.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_atozimages_dottedu.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_atozimages_dottedu.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_weatherimages_wolken.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_weatherimages_wolken.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_headerimages_image12.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_headerimages_image12.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_fruites_walnuss.webp.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_fruites_walnuss.webp"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_bedimages_kissen.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_bedimages_kissen.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_colorimages_orange.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_colorimages_orange.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_headerimages_image1.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_headerimages_image1.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_naturallandimages_insel.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_naturallandimages_insel.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_livingroomimages_kissen.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_livingroomimages_kissen.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_naturallandimages_klippen.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_naturallandimages_klippen.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_technology_handy.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_technology_handy.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_colorimages_black.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_colorimages_black.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_colorimages_blue.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_colorimages_blue.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_weatherimages_kalte.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_weatherimages_kalte.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_holidayimages_sonnenschrim.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_holidayimages_sonnenschrim.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_sportimages_americanfootball.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_sportimages_americanfootball.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_livingroomimages_fenster.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_livingroomimages_fenster.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_formanimalimages_schaf.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_formanimalimages_schaf.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_foodimages_ei.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_foodimages_ei.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_atozimages_s.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_atozimages_s.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_verbs_essen.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_verbs_essen.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_cityimages_gebaude.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_cityimages_gebaude.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_kitchenimages_messer.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_kitchenimages_messer.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_christmasimages_weihnachtsmann.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_christmasimages_weihnachtsmann.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_weatherimages_warme.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_weatherimages_warme.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_fishimages_koralle.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_fishimages_koralle.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_sportimages_golf.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_sportimages_golf.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_clothimages_anzug.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_clothimages_anzug.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_images_verb.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_images_verb.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.learngermanlanguage.app-main-36:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_musicimages_saxophon.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_musicimages_saxophon.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_livingroomimages_treppe.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_livingroomimages_treppe.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_fruites_kiwifruit.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_fruites_kiwifruit.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_halloweenimages_skelett.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_halloweenimages_skelett.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_sportimages_schwimmen.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_sportimages_schwimmen.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_atozimages_j.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_atozimages_j.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_naturallandimages_vulkan.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_naturallandimages_vulkan.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_sportimages_leichtathletik.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_sportimages_leichtathletik.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_weatherimages_nebel.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_weatherimages_nebel.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_formen_stern.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_formen_stern.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_verbs_waschen.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_verbs_waschen.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_insectsimages_mucke.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_insectsimages_mucke.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.learngermanlanguage.app-main-36:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_formen_oval.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_formen_oval.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_clothimages_jacke.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_clothimages_jacke.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_fishimages_wal.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_fishimages_wal.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_clothimages_handschuhe.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_clothimages_handschuhe.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_technology_kamera.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_technology_kamera.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_icecream_shne.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_icecream_shne.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_headerimages_image10.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_headerimages_image10.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_livingroomimages_wohnzimmertisch.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_livingroomimages_wohnzimmertisch.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_icecream_eis.webp.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_icecream_eis.webp"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_weatherimages_schnee.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_weatherimages_schnee.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_foodimages_wurst.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_foodimages_wurst.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_cityimages_park.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_cityimages_park.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_formanimalimages_pferd.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_formanimalimages_pferd.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_bedimages_decke.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_bedimages_decke.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_petsimages_vogel.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_petsimages_vogel.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_fishimages_delphin.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_fishimages_delphin.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.learngermanlanguage.app-main-36:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_technology_usbstick.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_technology_usbstick.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_clothimages_tshirt.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_clothimages_tshirt.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_fruites_watermelon.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_fruites_watermelon.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_bathimages_badewanne.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_bathimages_badewanne.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_colorimages_white.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_colorimages_white.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_raumfahrt_astronaut.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_raumfahrt_astronaut.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_holidayimages_pool.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_holidayimages_pool.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_images_gitar.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_images_gitar.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_bodyimages_derzahn.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_bodyimages_derzahn.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_musicimages_trompete.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_musicimages_trompete.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_formanimalimages_lamm.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_formanimalimages_lamm.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_formanimalimages_kuken.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_formanimalimages_kuken.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_clothimages_brille.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_clothimages_brille.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_fishimages_hummer.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_fishimages_hummer.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_vegetables_rettich.webp.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_vegetables_rettich.webp"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_headerimages_image7.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_headerimages_image7.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_formanimalimages_ente.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_formanimalimages_ente.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_sportimages_basketball.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_sportimages_basketball.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_bedimages_kleiderschrank.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_bedimages_kleiderschrank.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_foodimages_butter.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_foodimages_butter.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_musicimages_gitarre.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_musicimages_gitarre.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_vegetables_knoblauch.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_vegetables_knoblauch.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_bathimages_zahnburste.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_bathimages_zahnburste.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_electricimages_herd.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_electricimages_herd.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_bodyimages_dashaar.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_bodyimages_dashaar.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_cityimages_haus.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_cityimages_haus.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_foodimages_spiced.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_foodimages_spiced.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_halloweenimages_sarg.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_halloweenimages_sarg.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_headerimages_image5.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_headerimages_image5.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_holidayimages_schaufel.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_holidayimages_schaufel.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_kitchenimages_schaler.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_kitchenimages_schaler.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_sportimages_motorradfahren.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_sportimages_motorradfahren.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_transport_boat.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_transport_boat.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_formanimalimages_strauss.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_formanimalimages_strauss.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_clothimages_hose.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_clothimages_hose.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_colorimages_silver.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_colorimages_silver.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_electricimages_bugeleisen.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_electricimages_bugeleisen.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_halloweenimages_drache.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_halloweenimages_drache.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_schoolimages_schere.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_schoolimages_schere.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_insectsimages_spinne.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_insectsimages_spinne.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_fishimages_krabbe.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_fishimages_krabbe.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_wildanimalimages_kamel.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_wildanimalimages_kamel.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_icecream_brezel.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_icecream_brezel.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_verbs_arbeiten.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_verbs_arbeiten.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_fruites_avocado.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_fruites_avocado.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_musicimages_flote.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_musicimages_flote.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_musicimages_harfe.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_musicimages_harfe.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_livingroomimages_sessel.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_livingroomimages_sessel.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_atozimages_x.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_atozimages_x.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_icecream_milch.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_icecream_milch.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_colorimages_gold.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_colorimages_gold.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_cityimages_briefkasten.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_cityimages_briefkasten.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_images_tamato.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_images_tamato.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_transport_train.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_transport_train.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_fishimages_auster.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_fishimages_auster.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_insectsimages_kafer.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_insectsimages_kafer.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_foodimages_sushi.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_foodimages_sushi.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_colorimages_brown.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_colorimages_brown.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_petsimages_papagei.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_petsimages_papagei.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_bodyimages_dasbein.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_bodyimages_dasbein.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_images_school.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_images_school.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_foodimages_salz.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_foodimages_salz.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_wildanimalimages_elefant.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_wildanimalimages_elefant.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_transport_krankenwagen.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_transport_krankenwagen.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.learngermanlanguage.app-main-36:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_headerimages_image2.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_headerimages_image2.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_schoolimages_karte.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_schoolimages_karte.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_insectsimages_biene.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_insectsimages_biene.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_foodimages_sandwich.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_foodimages_sandwich.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_fruites_orange.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_fruites_orange.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_atozimages_e.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_atozimages_e.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_transport_flugzeug.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_transport_flugzeug.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_bodyimages_derarm.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_bodyimages_derarm.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_electricimages_toaster.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_electricimages_toaster.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_insectsimages_schmetterling.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_insectsimages_schmetterling.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_colorimages_green.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_colorimages_green.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_naturallandimages_weg.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_naturallandimages_weg.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_electricimages_mixer.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_electricimages_mixer.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_electricimages_geschirrspuler.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_electricimages_geschirrspuler.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_bedimages_drehstuhl.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_bedimages_drehstuhl.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_petsimages_chamaleon.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_petsimages_chamaleon.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_livingroomimages_pflanze.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_livingroomimages_pflanze.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_atozimages_c.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_atozimages_c.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_electricimages_mikrowelle.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_electricimages_mikrowelle.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_foodimages_seafood.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_foodimages_seafood.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_atozimages_w.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_atozimages_w.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_schoolimages_kleber.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_schoolimages_kleber.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_atozimages_oo.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_atozimages_oo.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_formen_sechseck.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_formen_sechseck.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_wildanimalimages_schlange.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_wildanimalimages_schlange.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_foodimages_burger.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_foodimages_burger.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_vegetables_aubergine.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_vegetables_aubergine.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_halloweenimages_fee.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_halloweenimages_fee.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_headerimages_image15.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_headerimages_image15.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_bodyimages_derfinger.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_bodyimages_derfinger.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_wildanimalimages_fledermaus.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_wildanimalimages_fledermaus.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_electricimages_ofen.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_electricimages_ofen.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_weatherimages_blitz.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_weatherimages_blitz.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_images_burger.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_images_burger.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_kitchenimages_glas.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_kitchenimages_glas.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_transport_firetruck.webp.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_transport_firetruck.webp"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_christmasimages_brief.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_christmasimages_brief.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_atozimages_a.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_atozimages_a.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_atozimages_f.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_atozimages_f.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_verbs_rennen.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_verbs_rennen.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_formanimalimages_hahn.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_formanimalimages_hahn.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_technology_laptop.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_technology_laptop.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_fruites_kirschen.webp.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_fruites_kirschen.webp"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_kitchenimages_gabel.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_kitchenimages_gabel.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_fruites_almond.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_fruites_almond.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_icecream_milkshake.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_icecream_milkshake.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_icecream_water.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_icecream_water.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_headerimages_image13.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_headerimages_image13.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_raumfahrt_ausserirdissche.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_raumfahrt_ausserirdissche.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_foodimages_hahnchen.webp.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_foodimages_hahnchen.webp"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_bathimages_dusche.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_bathimages_dusche.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_raumfahrt_planet.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_raumfahrt_planet.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_icecream_muffin.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_icecream_muffin.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_images_cristmas.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_images_cristmas.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_petsimages_maus.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_petsimages_maus.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_vegetables_mais.webp.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_vegetables_mais.webp"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_transport_lieferwagen.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_transport_lieferwagen.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_technology_wlan.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_technology_wlan.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_images_dog.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_images_dog.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_foodimages_cornflakes.webp.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_foodimages_cornflakes.webp"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_images_soffa.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_images_soffa.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_formanimalimages_stier.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_formanimalimages_stier.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_livingroomimages_kamin.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_livingroomimages_kamin.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_wildanimalimages_leopard.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_wildanimalimages_leopard.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_wildanimalimages_gepard.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_wildanimalimages_gepard.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_formanimalimages_esel.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_formanimalimages_esel.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_naturallandimages_flachland.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_naturallandimages_flachland.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_images_laptop.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_images_laptop.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_halloweenimages_kurbis.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_halloweenimages_kurbis.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_verbs_gehen.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_verbs_gehen.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_musicimages_klarinette.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_musicimages_klarinette.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_bedimages_bucherregal.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_bedimages_bucherregal.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_musicimages_xylophon.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_musicimages_xylophon.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_naturallandimages_meer.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_naturallandimages_meer.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_foodimages_salat.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_foodimages_salat.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_images_abc.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_images_abc.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_bodyimages_dasohr.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_bodyimages_dasohr.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_images_tiger.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_images_tiger.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_atozimages_r.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_atozimages_r.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_headerimages_image3.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_headerimages_image3.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_electricimages_kuhlschrank.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_electricimages_kuhlschrank.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_schoolimages_rucksack.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_schoolimages_rucksack.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_musicimages_klavier.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_musicimages_klavier.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_halloweenimages_zauberer.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_halloweenimages_zauberer.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_musicimages_mikrofon.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_musicimages_mikrofon.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_schoolimages_buch.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_schoolimages_buch.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_fruites_lemon.webp.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_fruites_lemon.webp"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_kitchenimages_teller.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_kitchenimages_teller.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_kitchenimages_tablett.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_kitchenimages_tablett.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_electricimages_staubsauger.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_electricimages_staubsauger.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_fishimages_hai.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_fishimages_hai.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_schoolimages_kugelschreiber.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_schoolimages_kugelschreiber.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_wildanimalimages_krokodil.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_wildanimalimages_krokodil.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_cityimages_telefonzelle.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_cityimages_telefonzelle.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_electricimages_fernseher.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_electricimages_fernseher.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_bodyimages_derfuss.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_bodyimages_derfuss.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_musicimages_lautsprecher.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_musicimages_lautsprecher.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_holidayimages_eimer.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_holidayimages_eimer.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_weatherimages_regen.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_weatherimages_regen.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_verbs_lesen.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_verbs_lesen.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_technology_drucker.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_technology_drucker.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_images_nature.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_images_nature.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_formen_dreieck.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_formen_dreieck.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_fishimages_oktopus.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_fishimages_oktopus.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_halloweenimages_vampir.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_halloweenimages_vampir.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_foodimages_zucker.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_foodimages_zucker.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_schoolimages_notizbuch.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_schoolimages_notizbuch.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_halloweenimages_teufel.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_halloweenimages_teufel.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_verbs_springen.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_verbs_springen.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_schoolimages_tafel.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_schoolimages_tafel.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_atozimages_y.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_atozimages_y.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_schoolimages_mappe.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_schoolimages_mappe.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_vegetables_blumenkohl.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_vegetables_blumenkohl.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_insectsimages_kakerlake.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_insectsimages_kakerlake.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_vegetables_petersilie.webp.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_vegetables_petersilie.webp"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_transport_truck.webp.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_transport_truck.webp"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_bodyimages_derellbogen.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_bodyimages_derellbogen.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_verbs_reinigen.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_verbs_reinigen.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.learngermanlanguage.app-main-36:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_raumfahrt_erde.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_raumfahrt_erde.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_cityimages_schild.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_cityimages_schild.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_bedimages_nachttisch.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_bedimages_nachttisch.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_christmasimages_schneemann.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_christmasimages_schneemann.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_images_animal.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_images_animal.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_foodimages_oil.webp.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_foodimages_oil.webp"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_images_angle.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_images_angle.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_clothimages_kleid.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_clothimages_kleid.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_petsimages_schildkrote.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_petsimages_schildkrote.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_verbs_schreiben.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_verbs_schreiben.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_halloweenimages_geist.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_halloweenimages_geist.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_formen_kreis.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_formen_kreis.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_images_icecreame.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_images_icecreame.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_fruites_melone.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_fruites_melone.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_wildanimalimages_fuchs.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_wildanimalimages_fuchs.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_formanimalimages_schwein.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_formanimalimages_schwein.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_colorimages_brightblue.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_colorimages_brightblue.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_fruites_apple.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_fruites_apple.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_christmasimages_schneeflocke.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_christmasimages_schneeflocke.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_foodimages_pizza.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_foodimages_pizza.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_bodyimages_dermund.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_bodyimages_dermund.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_transport_hotairbaloon.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_transport_hotairbaloon.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_raumfahrt_mond.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_raumfahrt_mond.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_fruites_trauben.webp.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_fruites_trauben.webp"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_atozimages_u.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_atozimages_u.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_fruites_limette.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_fruites_limette.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_colorimages_pink.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_colorimages_pink.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_images_bed.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_images_bed.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_kitchenimages_tasse.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_kitchenimages_tasse.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_sportimages_fussball.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_sportimages_fussball.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_icecream_popcorn.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_icecream_popcorn.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_schoolimages_bleistift.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_schoolimages_bleistift.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_petsimages_katze.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_petsimages_katze.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_petsimages_fisch.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_petsimages_fisch.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_colorimages_bronze.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_colorimages_bronze.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_clothimages_pullover.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_clothimages_pullover.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_formanimalimages_truthahn.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_formanimalimages_truthahn.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_bathimages_schwamm.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_bathimages_schwamm.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_schoolimages_lineal.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_schoolimages_lineal.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_verbs_schneiden.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_verbs_schneiden.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_halloweenimages_hexe.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_halloweenimages_hexe.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.learngermanlanguage.app-main-36:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_transport_motorrad.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_transport_motorrad.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_atozimages_t.png.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_atozimages_t.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_headerimages_image14.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_headerimages_image14.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_fishimages_seestern.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_fishimages_seestern.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_naturallandimages_wald.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_naturallandimages_wald.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.learngermanlanguage.app-main-36:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_icecream_tee.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_icecream_tee.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_bodyimages_diezehe.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_bodyimages_diezehe.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_sportimages_baseball.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_sportimages_baseball.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_sportimages_skifahren.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_sportimages_skifahren.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_bathimages_spiegel.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_bathimages_spiegel.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_bodyimages_dieschulter.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_bodyimages_dieschulter.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.learngermanlanguage.app-main-36:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_wildanimalimages_affe.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_wildanimalimages_affe.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_bodyimages_dienase.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_bodyimages_dienase.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_icecream_torte.jpg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_icecream_torte.jpg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_fishimages_seeigel.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_fishimages_seeigel.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_raumfahrt_milchstrasse.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_raumfahrt_milchstrasse.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_images_orange.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_images_orange.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_atozimages_b.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_atozimages_b.jpeg"
+    },
+    {
+        "merged": "com.learngermanlanguage.app-merged_res-35:/drawable-mdpi_src_assets_images_butterfly.jpeg.flat",
+        "source": "com.learngermanlanguage.app-res-30:/drawable-mdpi/src_assets_images_butterfly.jpeg"
+    }
+]

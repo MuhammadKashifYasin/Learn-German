@@ -1,0 +1,16 @@
+current directory: /Users/mapmac/Documents/App/LearnGerman/vendor/bundle/ruby/2.7.0/gems/json-2.7.2/ext/json
+/Users/mapmac/.rvm/rubies/ruby-2.7.5/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/mapmac/Documents/App/LearnGerman/vendor/bundle/ruby/2.7.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240611-67247-2nf9sb sitelibdir\=./.gem.20240611-67247-2nf9sb clean
+
+current directory: /Users/mapmac/Documents/App/LearnGerman/vendor/bundle/ruby/2.7.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240611-67247-2nf9sb sitelibdir\=./.gem.20240611-67247-2nf9sb
+make: Nothing to be done for `all'.
+
+current directory: /Users/mapmac/Documents/App/LearnGerman/vendor/bundle/ruby/2.7.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240611-67247-2nf9sb sitelibdir\=./.gem.20240611-67247-2nf9sb install
+
+current directory: /Users/mapmac/Documents/App/LearnGerman/vendor/bundle/ruby/2.7.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240611-67247-2nf9sb sitelibdir\=./.gem.20240611-67247-2nf9sb clean

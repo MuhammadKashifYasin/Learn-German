@@ -1,0 +1,18 @@
+current directory: /Users/mapmac/Documents/App/LearnGerman/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+/Users/mapmac/.rvm/rubies/ruby-2.7.5/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/mapmac/Documents/App/LearnGerman/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240611-67247-1ls0jgu sitelibdir\=./.gem.20240611-67247-1ls0jgu clean
+
+current directory: /Users/mapmac/Documents/App/LearnGerman/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240611-67247-1ls0jgu sitelibdir\=./.gem.20240611-67247-1ls0jgu
+compiling nkf.c
+linking shared-object nkf.bundle
+
+current directory: /Users/mapmac/Documents/App/LearnGerman/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240611-67247-1ls0jgu sitelibdir\=./.gem.20240611-67247-1ls0jgu install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 nkf.bundle ./.gem.20240611-67247-1ls0jgu
+
+current directory: /Users/mapmac/Documents/App/LearnGerman/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240611-67247-1ls0jgu sitelibdir\=./.gem.20240611-67247-1ls0jgu clean
